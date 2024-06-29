@@ -1,0 +1,30 @@
+		GITHUB PACKAGES
+
+github packages is  a platform for hosting managinng packages ,
+including containers and other dependendencies .
+suppoerted packages registry:
+	javascript (nmp packages)
+	ruby(gems)
+	java(maven and gradle packages)
+	.net(dot net packanges)
+	.docker images 
+	REPO INSIGHTS
+
+for a github repo under the insights tab you can gain lots of
+statistical graphs about the repo.
+insights contains:
+.pulse. overview of recent activity (issues,pull,requests)
+.contributors. lists contributors and thier activity stats
+.community standards checks for essential community health files
+. commits history of all commits in the repo
+. code frequecy graph of code additions and deletion over time
+. dependency graph visualizes code dependencies
+. network shows fork relationships and variatons
+. forks number and links to repository forks 
+
+now lets talk about the diffrences between issues , discussions
+and pull requests
+.issues are for tracking tasks , enhancements , and other actionable items 
+. discussions are for facilitating conversations and qas about 
+a wide range of topics related to the project.
+. 
